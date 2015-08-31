@@ -4,3 +4,6 @@ Also, it will download new files or update current files if there's a different 
 TODO: 
 *Code cleanup and optimize
 *FileUpdate List Creator, so you can create your list.txt.
+
+Dependencies:
+MetroFramework.dll
